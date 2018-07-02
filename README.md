@@ -1,4 +1,9 @@
-<img alt="Logo" src="https://coderslab.pl/svg/logo-coderslab.svg" width="400">
+﻿<img alt="Logo" src="https://coderslab.pl/svg/logo-coderslab.svg" width="400">
+
+
+
+
+
 
 # Node.js challenge
 
